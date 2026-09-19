@@ -66,7 +66,7 @@
   <!-- 个人介绍 -->
   <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png"/>
  
-  我现在就读**待编辑**XXXX班，目前XX，已保研至**待编辑**直博，人工智能方向
+  我现在就读**哈佛学前班**班，目前就任**睡觉管理**，已保研至**睡觉研究**直博，人工智能方向
  
   - &#127793; 以后的研究方向是频率方向的**机器学习**和集成学习。
  
