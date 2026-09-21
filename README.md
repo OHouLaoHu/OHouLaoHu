@@ -115,7 +115,7 @@
     <div> </div>
     <!-- metrics -->
     <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif"/>
-    <img src="/github-metrics.svg">
+    <img src="https://metrics.lecoq.io/OHouLaoHu" />
     <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif">
 </div>
  
